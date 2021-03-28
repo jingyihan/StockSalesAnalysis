@@ -6,7 +6,7 @@ Exam patterns and trends in stock sales data
 ![image](https://user-images.githubusercontent.com/24922489/112740795-22874700-8f3d-11eb-82bf-7b66a1c0bc12.png)
 
 ## Clustering
-K-means clustering methodology was used to classify stocks based on three factors: quantity, imbalance, Total Commission. KNN elbow plot was used to select the best number of clusters to apply:
+K-means clustering methodology was used to classify stocks based on three factors: quantity, imbalance, Total Commission. KNN elbow plot was used to select the best number of clusters to apply. As shown in the plot below, 5 clusters are appropriate for the dataset, given the improvements after 5 is less significant.
 
 ![image](https://user-images.githubusercontent.com/24922489/112740811-3f237f00-8f3d-11eb-86d1-aa46e18ad2e5.png)
 
