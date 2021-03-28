@@ -2,7 +2,7 @@
 Exam patterns and trends in stock sales data
 
 ## Elementary Data Analysis
-
+The distribution of each fields was plotted as shown below.
 ![image](https://user-images.githubusercontent.com/24922489/112740795-22874700-8f3d-11eb-82bf-7b66a1c0bc12.png)
 
 ## Clustering
